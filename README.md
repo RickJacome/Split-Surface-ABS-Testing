@@ -1,9 +1,8 @@
 # Split-Surface-ABS-Testing
 
+The current repository contains the data used in the article called:
 
-## The current repository contains the data used in the article called:
-
-## Coefficients of Friction Determination on Split Testing Beds with ABS
+Coefficients of Friction Determination on Split Testing Beds with ABS
 
 * Each excel document named ABS-###-SLICE1-Output.xlsx contains the raw data for the specific cases discussed in the paper.
 
